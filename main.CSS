@@ -8,7 +8,7 @@ body {
 }
 
 h1 {
-    flex-basis: 100%;
+    flex-basis: 50%;
     text-align: center;
     font-size: 30px;
 }
