@@ -12,13 +12,13 @@ h1 {
     text-align: center;
     font-size: 30px;
 }
-.bill {
+.Temperature {
     display: flex;
     flex-wrap: wrap;
     flex-basis: 60%;
     max-width: 480px;
 }
-.bill >* {
+.Temperature >* {
     margin: 5px;
 }
 label:first-of-type {
